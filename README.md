@@ -1,3 +1,3 @@
-<h1>My First Website On Github/Aboutme</h1>
+<h1>My first website using suing github as hosting for my domain </h1>
 
-Webpage has hosted in this [URL to the project](http://www.shailpatel.ca/)
+Website hosted on this [URL to the project](http://www.shailpatel.ca/)
