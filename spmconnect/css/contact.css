@@ -1,0 +1,161 @@
+@import url('http://fonts.googleapis.com/css?family=Open+Sans:200,300');
+
+/* general styles */
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Open Sans',Arial,Helvetica,Sans-Serif;
+  color: #333;
+}
+#body {
+  padding-bottom:60px;
+}
+
+/* padded section */
+.pad-section {
+  padding: 50px 0;
+}
+.pad-section img {
+  width: 100%;
+}
+
+/* vertical-centered text */
+.text-vcenter {
+
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  }
+
+.text-vcenter h1 {
+  font-family: 'Open Sans',Arial,Helvetica,Sans-Serif;
+  font-size: 4.5em;
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+  padding-top: 100px;
+  color: white;
+
+}
+
+.text-vcenter h2 {
+  font-family: 'Open Sans',Arial,Helvetica,Sans-Serif;
+  
+  color: white;
+
+}
+
+
+
+/* additional sections */
+#home {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-top: 0px;
+  margin-bottom: -100px;
+  background-color: #2185C5;
+  color: #ffffff;
+  height: 120px;
+}
+
+#about {
+}
+
+#icons {
+  background-color: #2185C5;
+  color: #ffffff;
+  padding-bottom: 20px;
+}
+#icons .glyphicon {
+  border: 2px solid #FFFFFF;
+  border-radius: 50%;
+  display: inline-block;
+  font-size: 60px;
+  height: 140px;
+  line-height: 140px;
+  text-align: center;
+  vertical-align: middle;
+  width: 140px;
+}
+
+#information {
+  background: url(/webimages/animation_org.png) no-repeat center center fixed; 
+  display: table;
+  height: 800px;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#information .panel {
+  opacity: 0.85;
+}
+
+
+#tooling {
+  background: url(/webimages/rcl.png) no-repeat center center fixed; 
+  display: table;
+  height: 800px;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#tooling .panel {
+  opacity: 0.85;
+}
+
+
+
+#google_map {
+  margin-top: 0px;
+  height: 400px;
+}
+
+#tell_us {
+  background-color: #2185C5;
+  padding-bottom:80px;
+}
+
+#contact_form {
+    color: #ffffff;  
+}
+
+#foot_container {
+  min-height:100%;
+   position:relative;
+}
+
+
+footer {
+   padding: 20px 0;
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:60px;   /* Height of the footer */
+   background:#EDEDED;
+   border-top: solid;
+   border-top-width: 4px;
+   border-top-color: #FF7F66;
+}
+
+footer .glyphicon {
+  color: #333333;
+  font-size: 60px;
+}
+footer .glyphicon:hover {
+  color: #306d9f;
+}
+
+h1 small, h2 small, h3 small, h4 small, h5 small, h6 small, .h1 small, .h2 small, .h3 small, .h4 small, .h5 small, .h6 small, h1 .small, h2 .small, h3 .small, h4 .small, h5 .small, h6 .small, .h1 .small, .h2 .small, .h3 .small, .h4 .small, .h5 .small, .h6 .small {
+color: #333;
+}
+
+
+
