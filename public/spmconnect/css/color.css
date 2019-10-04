@@ -3,7 +3,7 @@
 
 body {
 	font-family: 'Roboto', sans-serif;
-	background: #c2e59c;   fallback for old browsers 
+	background: #c2e59c;   
 	background: -webkit-linear-gradient(to right, #7474BF, #348AC7); 
 	background: linear-gradient(to right, #2185C5, #EDEDED); 
 	

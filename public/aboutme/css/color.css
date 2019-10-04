@@ -1,0 +1,14 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background: #c2e59c;
+	background: -webkit-linear-gradient(to right, #7474bf, #348ac7); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #dae2f8, #d6a4a4);
+}
+
+ul {
+	background: lightgray;
+}
+
+.copyrightsp {
+	font-size: 10px;
+}
