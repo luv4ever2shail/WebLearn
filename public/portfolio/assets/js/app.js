@@ -83,7 +83,7 @@ particlesJS('particles-js', {
 		detect_on: 'canvas',
 		events: {
 			onhover: {
-				enable: true,
+				enable: false,
 				mode: 'repulse'
 			},
 			onclick: {
@@ -119,7 +119,7 @@ particlesJS('particles-js', {
 	},
 	retina_detect: true,
 	config_demo: {
-		hide_card: false,
+		hide_card: true,
 		background_color: '#b61924',
 		background_image: '',
 		background_position: '50% 50%',
